@@ -4,7 +4,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 require("dotenv").config();
 const app = express();
-const stripe = Stripe(process.env.REACT_APP_STRIPE_SECRET_KEY); // Înlocuiește cu cheia ta secretă de test
+const stripe = Stripe(process.env.REACT_APP_STRIPE_SECRET_KEY);
 
 app.use(bodyParser.json());
 app.use(cors());
@@ -15,7 +15,7 @@ app.post("/create-payment-intent", async (req, res) => {
   try {
     const paymentIntent = await stripe.paymentIntents.create({
       amount: amount,
-      currency: "ron", // Poți înlocui cu moneda dorită
+      currency: "ron",
     });
     res.json({ clientSecret: paymentIntent.client_secret });
   } catch (err) {
