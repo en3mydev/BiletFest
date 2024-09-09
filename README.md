@@ -15,3 +15,12 @@
    - **Other Tools:**
        * **Axios:** Used for making HTTP requests to the backend.
        * **qrcode.React**: Used for generating and displaying QR codes.
+
+<h2>Backend:</h2>
+
+   - **.NET (C#):** Developed RESTful APIs to handle the application's server-side logic.
+   - **EntityFrameworkCore:** Used as an Object-Relational Mapper (ORM) to interact with the SQL database.
+   - **SQL:** Chosen as the database for data storage and retrieval.
+
+<h1>Presentation images:</h1>
+<p style="font-size: 24px">Home page</p>
