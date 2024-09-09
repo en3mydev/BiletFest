@@ -23,13 +23,14 @@
    - **SQL:** Chosen as the database for data storage and retrieval.
 
 <h1>Presentation images:</h1>
-<p style="font-size: 24px">Home page</p>
-<img src="https://i.imgur.com/emOKPXc.png" style="width: 75%" />
-<p>On the main page we have cards to navigate to events (Festivals, Concerts, Stand-Up Comendy) and a banner where you can subscribe to the newsletter. After subscribing to the newsletter, you will receive this email:</p>
-<img src="https://i.imgur.com/Cqvn3Nk.png" style="width: 75%" />
-<p>Next, we will choose to see all the festivals:</p>
-<img src="https://i.imgur.com/nj2q5oE.png" style="width: 75%" />
-<p>Let's choose Beach, Please Festival! and let's see the presentation page of the festival, I added some tickets and applied a discount code:</p>
-<img src="https://i.imgur.com/v4RtEAu.png" style="width: 75%" />
+<h3>Home page</h3>
+<img src="https://i.imgur.com/emOKPXc.png" />
+<h4>On the main page we have cards to navigate to events (Festivals, Concerts, Stand-Up Comendy) and a banner where you can subscribe to the newsletter. After subscribing to the newsletter, you will receive this email:</h4>
+<img src="https://i.imgur.com/Cqvn3Nk.png"/>
+<h4>Next, we will choose to see all the festivals:</h4>
+<img src="https://i.imgur.com/nj2q5oE.png" />
+<h4>Let's choose Beach, Please Festival! and let's see the presentation page of the festival, I added some tickets and applied a discount code:</h4>
+<img src="https://i.imgur.com/v4RtEAu.png" />
 Now let's go to the checkout page:
-<img src="https://i.imgur.com/HkDjgvP.png" style="width: 75%" />
+<img src="https://i.imgur.com/HkDjgvP.png" />
+https://imgur.com/a/tHDWW1j
