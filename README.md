@@ -39,4 +39,7 @@
 <img src="https://i.imgur.com/21fdBXZ.png" />
 <h4>We will also receive an email with the order:</h4>
 <img src="https://i.imgur.com/xwnuaCD.png" />
-https://imgur.com/a/tHDWW1j
+<h4>We also have an admin panel where you can check if the ticket is valid, you can add a new festival or a new voucher code:</h4>
+<img src="https://i.imgur.com/UTfTYKP.png" />
+
+<h3></h3>
