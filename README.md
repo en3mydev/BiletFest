@@ -31,6 +31,12 @@
 <img src="https://i.imgur.com/nj2q5oE.png" />
 <h4>Let's choose Beach, Please Festival! and let's see the presentation page of the festival, I added some tickets and applied a discount code:</h4>
 <img src="https://i.imgur.com/v4RtEAu.png" />
-Now let's go to the checkout page:
+<h4>Now let's go to the checkout page:</h4>
 <img src="https://i.imgur.com/HkDjgvP.png" />
+<h4>Now we have to pay, the payment will be made using Stripe, we have a test card (4242 4242 42424 4242 / ANY CVV / ANY EXPIRE DATE):</h4>
+<img src="https://i.imgur.com/apiskR8.png" />
+<h4>After the payment was made successfully we will be redirected to the order confirmation page where we can see all the tickets we bought:</h4>
+<img src="https://i.imgur.com/21fdBXZ.png" />
+<h4>We will also receive an email with the order:</h4>
+<img src="https://i.imgur.com/xwnuaCD.png" />
 https://imgur.com/a/tHDWW1j
