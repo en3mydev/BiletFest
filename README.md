@@ -44,8 +44,8 @@
 
 <h2>New Features in This Project:</h2>
 
-   **useReducer Hook:** Implemented for more complex state management in React, allowing for better handling of multiple state transitions.
-   **Stripe and EmailJS Integrations:** Integrated Stripe for secure payment processing and EmailJS for sending emails directly from the client-side.
-   **QR Code Generation API:** Added a feature for generating and displaying QR codes using an API.
-   **.NET and EntityFrameworkCore:** Developed RESTful APIs using .NET and EntityFrameworkCore for more robust server-side logic and database interactions.
-   **Database Relationships in SQL:** Utilized relational database management by establishing and managing relationships between SQL tables.
+- **useReducer Hook:** Implemented for more complex state management in React, allowing for better handling of multiple state transitions.
+- **Stripe and EmailJS Integrations:** Integrated Stripe for secure payment processing and EmailJS for sending emails directly from the client-side.
+- **QR Code Generation API:** Added a feature for generating and displaying QR codes using an API.
+- **.NET and EntityFrameworkCore:** Developed RESTful APIs using .NET and EntityFrameworkCore for more robust server-side logic and database interactions.
+- **Database Relationships in SQL:** Utilized relational database management by establishing and managing relationships between SQL tables.
