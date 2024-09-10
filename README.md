@@ -42,4 +42,10 @@
 <h4>We also have an admin panel where you can check if the ticket is valid, you can add a new festival or a new voucher code:</h4>
 <img src="https://i.imgur.com/UTfTYKP.png" />
 
-<h3></h3>
+<h2>New Features in This Project:</h2>
+
+   **useReducer Hook:** Implemented for more complex state management in React, allowing for better handling of multiple state transitions.
+   **Stripe and EmailJS Integrations:** Integrated Stripe for secure payment processing and EmailJS for sending emails directly from the client-side.
+   **QR Code Generation API:** Added a feature for generating and displaying QR codes using an API.
+   **.NET and EntityFrameworkCore:** Developed RESTful APIs using .NET and EntityFrameworkCore for more robust server-side logic and database interactions.
+   **Database Relationships in SQL:** Utilized relational database management by establishing and managing relationships between SQL tables.
