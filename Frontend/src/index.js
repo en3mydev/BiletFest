@@ -8,7 +8,7 @@ import { Elements } from "@stripe/react-stripe-js";
 import { loadStripe } from "@stripe/stripe-js";
 
 const stripePromise = loadStripe(
-  "pk_test_51PdVBHRtP7erpCbZfZhoeljW8zFNxs2biAjoqUNIIL2J3UmUUpXwBsNETQS0P7NXpO5QZB5uM2hHxgCvGGE2JHcr007GUIt5k1"
+  "key_test"
 ); // Înlocuiește cu cheia ta publică de test
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
